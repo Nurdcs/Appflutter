@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/dafetecuab/platzi_flutter_app.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/FirebaseExtended/flutterfire.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\" />
